@@ -21,6 +21,9 @@ h6 {
   background: #e3e3e3;
 }
 
+.profile-photo {
+  background-image: url("assets/images/profile.jpg");
+}
 .img-circle {
   border-radius: 50%;
 }
